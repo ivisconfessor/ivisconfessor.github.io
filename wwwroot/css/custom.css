@@ -1,3 +1,7 @@
+body {
+    text-align: justify;
+}
+
 @media (min-width: 360px) {
     #customIconsContacts a + a {
         margin-bottom: 1rem;
